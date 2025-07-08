@@ -1,3 +1,6 @@
+![Profile Views](https://komarev.com/ghpvc/?username=ArmandoDevJr258&label=Profile%20views&color=0e75b6&style=flat)
+
+
 ## Hi there! 👋
 
 I'm ArmandoDevJr258, a passionate developer from Mozambique. I love creating applications that enhance user experiences and make life easier. Welcome to my GitHub profile!
