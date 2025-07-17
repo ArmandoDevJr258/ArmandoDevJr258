@@ -2,7 +2,7 @@
 
 ## Hi there! 👋
 
-I'm **ArmandoDevJr258**, a passionate developer from **Mozambique**. I love creating applications that enhance user experiences and make life easier. Welcome to my GitHub profile!
+I'm **Armando Júnior**, a passionate developer from **Mozambique**. I love creating applications that enhance user experiences and make life easier. Welcome to my GitHub profile!
 
 ## 🔍 About Me
 
