@@ -12,7 +12,6 @@ I'm a developer dedicated to building innovative solutions. Based in Mozambique,
 
 ## 📫 How to Reach Me
 
-(You can add social links here, like LinkedIn, Twitter, or Email.)
 
 ---
 
