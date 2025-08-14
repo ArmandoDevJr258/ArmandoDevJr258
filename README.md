@@ -50,7 +50,7 @@ Feel free to reach out for mobile app collaboration or tech-related discussions!
 Here are a few projects I'm proud of:
 
 - [**Quotter**](https://github.com/ArmandoDevJr258/Quotter) – A versatile application for managing and exploring quotes.
-- [**Stopwatch**](https://github.com/ArmandoDevJr258/stopwatch) – A simple stopwatch mobile app built with React Native.
+- [**PushFit**](https://github.com/ArmandoDevJr258/pushfit) – A Workouts from home  mobile app built with React Native.
 - [**Personal Portfolio**](https://github.com/ArmandoDevJr258/ArmandoDevJr258) – Showcasing my work and ongoing learning journey.
 
 ---
