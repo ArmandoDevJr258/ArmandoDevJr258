@@ -57,13 +57,17 @@ Here are a few projects I'm proud of:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArmandoDevJr258&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArmandoDevJr258&show_icons=true&theme=radical" alt="GitHub Stats" style="height:150px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArmandoDevJr258&theme=radical" alt="GitHub Streak" style="height:150px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoDevJr258&layout=compact&theme=radical" alt="Most Used Languages" style="height:150px;" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArmandoDevJr258&theme=radical" alt="GitHub Streak" />
-</p>
+</div>
+
+
+
+
+
 
 ---
 
